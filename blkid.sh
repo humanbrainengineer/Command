@@ -1,4 +1,4 @@
- ## check the partition's UUID of SSD 
+ ## check the partition's UUID of SSD which use in the /etc/fstab
  
  blkid /dev/sdb5
 
